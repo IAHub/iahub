@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "BattuneInWonderlandSW1989MerleK.GoodmanAdventureInteractiveFiction"
