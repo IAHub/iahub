@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "FirstExpeditionV4.0SWInstaller1992SteveEnglestadAdventureStrategy"
