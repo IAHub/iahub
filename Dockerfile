@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "SHGMDEMO."
+RUN ia download "Spycraft."
