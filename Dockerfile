@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "Spycraft."
+RUN ia download "TarkSimmonsPriestessOfTheFirstChurchInHerBattleAgainstTheDemonOfDarkDesire1988W."
