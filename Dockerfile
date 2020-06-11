@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "TalesOfTreasureV3.01992JohnOlsenAdventureInteractiveFictionCompilation"
