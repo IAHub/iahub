@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "JourneyThroughTheWildernessSW1987WisdomResearchTrivia"
