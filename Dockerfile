@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "XenophageAlienBloodsportBeta19951229ToShareware1.0PatchApogeeSoftwareInstaller"
