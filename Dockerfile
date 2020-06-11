@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "LasVegasStyleCrapsV2.3SW1987KentMyersMarkusHouySimulationStrategy"
