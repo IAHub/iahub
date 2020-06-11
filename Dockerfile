@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "CavernsOfChaosV.16SW1992PaulMartinezAliCastroAdventureInteractiveFiction"
