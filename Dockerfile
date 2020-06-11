@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "Ultizurk1TheGrandmastersQuestSW1992RobertJ.DeutschAdventureRolePlayingRPG"
