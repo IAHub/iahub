@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "DROWNED."
+RUN ia download "Gogodemo."
