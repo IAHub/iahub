@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "InterSEXionAGameToMakeCloseFriendsCloserV3.0TESTSW1987SQSoftwareCompilationAdult"
