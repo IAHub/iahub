@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "UnnkulianUnderworldTheUnknownUnventureV3.0SW1993D.A.LearyAdventureInteractiveFiction"
