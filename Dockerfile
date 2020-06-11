@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "SorcerersBaneV1.1SW1992WoodSoftwareDevelopmentAdventureRolePlayingRPG"
