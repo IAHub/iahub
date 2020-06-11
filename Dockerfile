@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "WordSlidePuzzlesPuzzleSeries03V4.0DeEnSW1991RonaldT.BlocherStrategyPuzzle"
