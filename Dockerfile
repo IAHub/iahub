@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "MultiGameDemoGunshipF15StrikeEagleSidMeiersPiratesSilentService_1020"
