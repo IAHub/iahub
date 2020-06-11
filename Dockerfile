@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "MorkinIIV41992AnthonyHamiltonRolePlayingRPGSimulation"
