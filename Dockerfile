@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "ChroniclesOfAarbronTrilogyTheV1.011997LionSoftwareAdventureInteractiveFiction"
