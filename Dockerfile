@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "ColossalCaveTheFirstAdventureV1.5SW1991ImageIllusionsAdventureInteractiveFiction"
