@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "SlicksnSlideV1.30DMulti8SW1997SpectrumPacificPublishingActionRacingDriving"
