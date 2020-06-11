@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "BonesTheGameOfTheHauntedMansionV3.8c1991BruceN.BakerAdventureRolePlayingRPG"
