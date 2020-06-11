@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "ComputerGamingWorldCDBaldursGateIIShadowsOfAmnDisc1BG2DEMONovember2000"
