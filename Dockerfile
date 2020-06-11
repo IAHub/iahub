@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "DefenderOfBostonTheRockIslandMysteryV1.1SW1992TimWissemanAdventureRolePlayingRPG"
