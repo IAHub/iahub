@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "SouthAmericaTrekSW1986ButtonWareInc.AdventureInteractiveFiction"
