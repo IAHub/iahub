@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "Gogodemo."
+RUN ia download "LianneIn...TheDarkCrown"
