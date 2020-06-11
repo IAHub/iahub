@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "IslandOfMysteryAdventureV1.51SW1986AgencyAutomationAdventureInteractiveFiction"
