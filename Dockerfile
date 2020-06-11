@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "WhereInTheUSAIsCarmenSandiegoV2.0Demo1989BroderbundSoftwareInc.AdventureEducational"
