@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "InfiltrationToIBMHeadquarters1987JohnathanStanleyAdventureInteractiveFiction"
