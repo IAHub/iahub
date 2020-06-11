@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "TalesOfMagicV3.0SW1992JohnOlsenAdventureInteractiveFictionCompilation"
