@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "BrainscapeV1.21986LynneOstergrenW.JeffreyWilsonAdventureInteractiveFiction"
