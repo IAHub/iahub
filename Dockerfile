@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "BlakeStoneAliensOfGold6Episode2.0To2.1PatchApogeeSoftwareInstaller19980724"
