@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "EamonAdventureDisk1TheMainHallV2.0SW1988PCSIGAdventureRolePlayingRPG"
