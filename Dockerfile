@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "MultiGameDemoF15StrikeEagleIIF19StealthFighterRedStormRisingTankPlatoon_1020"
