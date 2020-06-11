@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "EamonAdventureDisk3AssaultOnTheCloneMasterSW1988PCSIGAdventureRolePlayingRPG"
