@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "TarkSimmonsPriestessOfTheFirstChurchInHerBattleAgainstTheDemonOfDarkDesire1988W."
+RUN ia download "swizzle_demu_MBZ."
