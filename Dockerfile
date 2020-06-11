@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "HouseAtTheEdgeOfTimeTheSW1990PatPfliegerAdventureInteractiveFiction"
