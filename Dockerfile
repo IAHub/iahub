@@ -1,2 +1,2 @@
 FROM iaimages/iahub:latest
-RUN ia download "3DULTRA."
+RUN ia download "ARK...1988ScottDemersAction"
