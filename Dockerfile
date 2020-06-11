@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "EnchantedCastleR3SW2000MichaelR.WilkAdventureInteractiveFiction"
