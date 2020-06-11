@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "EamonAdventureDisk2TheIceCaveSW1988PCSIGAdventureRolePlayingRPG"
