@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "AvengerOfRubiconV2.1SW1990ConradButtonAdventureInteractiveFiction"
