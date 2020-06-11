@@ -1,0 +1,2 @@
+FROM iaimages/iahub:latest
+RUN ia download "TombOfTheAncientPharaohsTheV3.1SW1992AnneT.BrennerAdventureInteractiveFiction"
